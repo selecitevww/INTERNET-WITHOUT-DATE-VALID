@@ -4,10 +4,10 @@ IN CHROME IS FUNCTION FOR RUN .lnk
 
 
 
-YOU RIGHT CLICK TO LNK CHROME ADD THIS SYMBOLS: --ignore--certificate-error
+YOU RIGHT CLICK TO LNK CHROME ADD THIS SYMBOLS: --ignore-certificate-errors
 
 EXAMPLE:
 
-> D:\        \GoogleChromePortableDev\GoogleChromePortable.exe --ignore--certificate-error
+> D:\        \GoogleChromePortableDev\GoogleChromePortable.exe --ignore-certificate-errors
 >
 > 

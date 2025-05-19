@@ -34,3 +34,12 @@ OR
 OR
 
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --ignore-urlfetcher-cert-request
+
+
+FOR EXAMPLE ATTACK: 
+
+HACKER COMPILE EXE IN FILE WITH THIS ATTRIBUTE
+
+AND REPLACE YOU ORIGINAL PROGRAM
+
+AND YOU HACKED! 

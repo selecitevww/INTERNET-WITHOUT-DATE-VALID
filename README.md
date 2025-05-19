@@ -1,8 +1,11 @@
 # IF YOU DO NOT KNOW VALID DATE, BUT NEED ACCESS TO INTERNET
 
 IN CHROME IS FUNCTION FOR RUN .lnk (Shortcut == Ярлык)
- 1  or 2 ->
+ 
 - -or -- try please .... anyone other Windows and version chrome
+1  or 2 ^
+
+
 
 YOU RIGHT CLICK TO LNK CHROME ADD THIS SYMBOLS: --ignore-certificate-error
 

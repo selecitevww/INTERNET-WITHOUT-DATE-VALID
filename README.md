@@ -4,7 +4,8 @@ NOTICE: BUT NOT USE FOR BANKS AND MONEY, BECAUSE YOU TRAFFIC LOOK WITH 'SNIFFER'
 IN CHROME IS FUNCTION FOR RUN .lnk (Shortcut == Ярлык)
  
 - -or -- try please .... anyone other Windows and version chrome
-1  or 2 ^
+  
+    1  or 2 ^
 
 
 

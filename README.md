@@ -1,0 +1,13 @@
+# IF YOU DO NOT KNO VALID DATE NEED ACCESS TO INTERNET
+
+IN CHROME IS FUNCTION FOR RUN .lnk
+
+
+
+YOU RIGHT CLICK TO LNK CHROME ADD THIS SYMBOLS: --ignore--certificate-error
+
+EXAMPLE:
+
+> D:\        \GoogleChromePortableDev\GoogleChromePortable.exe --ignore--certificate-error
+>
+> 
